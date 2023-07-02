@@ -1,5 +1,5 @@
 # chatbuddy
-A chatbot Flask app which uses GPT4All (ggml-gpt4all-j-v1.3-groovy).
+A chatbot Flask app which uses GPT4All.
 
 ## How to run
 
@@ -20,3 +20,8 @@ A chatbot Flask app which uses GPT4All (ggml-gpt4all-j-v1.3-groovy).
    ```
    python3 app.py
    ```
+5. Now, open a web browser, and enter in the address bar:
+   ```
+   localhost:5000
+   ```
+   and press Enter.
