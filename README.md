@@ -25,3 +25,7 @@ A chatbot Flask app which uses GPT4All.
    localhost:5000
    ```
    and press Enter.
+
+## Example:
+
+![example](Screenshot.png)
