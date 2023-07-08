@@ -26,6 +26,6 @@ A chatbot Flask app which uses GPT4All.
    ```
    and press Enter.
 
-## Example:
+## Example
 
 ![example](Screenshot.png)
