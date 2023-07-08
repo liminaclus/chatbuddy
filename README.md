@@ -28,4 +28,4 @@ A chatbot Flask app which uses GPT4All.
 
 ## Example
 
-![example](Screenshot.png)
+![example](screenshot.png)
